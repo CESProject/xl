@@ -23,7 +23,10 @@
 @end
 
 @implementation AppDelegate
-
+/**
+    哦多克 思密达  测试数据  厦航写的
+ 
+ */
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
