@@ -26,6 +26,12 @@
     _scrollView.contentSize = CGSizeMake(arr.count * _scrollView.frame.size.width, _scrollView.frame.size.height);
     _scrollView.delegate = self;
     
+    
+    
+    //这是我的更改 ！！！
+    /**
+        这是我的最新更改！！
+    */
     UIPageControl *pageControl = [[UIPageControl alloc] init];
     CGFloat pageControlWidth = 100;
     CGFloat pageControlHeight = 30;
